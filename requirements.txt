@@ -4,3 +4,7 @@ matplotlib
 seaborn
 fpdf
 jupyter 
+statsmodels
+pmdarima
+prophet
+tensorflow
